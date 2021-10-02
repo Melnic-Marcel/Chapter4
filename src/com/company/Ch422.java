@@ -1,7 +1,6 @@
-//Ex4.22
 package com.company;
 import java.util.Scanner;
-public class Ch431 {
+public class Ch422 {
     public static void main(String[] args) {
         int n=1;
         int ten=10;
